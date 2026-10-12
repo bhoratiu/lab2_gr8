@@ -10,4 +10,7 @@ public class Lab2Gr8Application {
 		SpringApplication.run(Lab2Gr8Application.class, args);
 	}
 
+
+	//test de commit sa iti demionstrez
+
 }
